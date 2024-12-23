@@ -171,3 +171,12 @@ pip install pygame torch matplotlib
 - 본 프로젝트는 자유로운 **연구/교육 목적** 사용을 권장합니다.  
 - 외부 라이브러리(pygame, torch, matplotlib)는 각각의 라이선스를 따릅니다.  
 - 프로젝트 개선이나 버그 리포트, Pull Request 등은 언제든지 환영합니다.
+
+## Acknowledgement
+
+이 프로젝트는 **기초연구사업 - 신진연구 - 세종과학펠로우십(국내트랙)** 과제를 통해 지원을 받아 진행 중인 연구 결과물입니다.
+
+- **국문 과제명**: VR, AR 등 미래 산업 환경에서 엣지 컴퓨팅 시뮬레이터를 활용한 학습 기반의 엣지 컴퓨팅 최적 운영 기법 개발 연구  
+- **영문 과제명**: Research on the development of optimal operating techniques for edge computing based on learning using edge computing simulators in future industrial environments such as VR/AR
+
+**This work was supported by the National Research Foundation of Korea (NRF) Grant funded by Korea Government [Ministry of Science and ICT (MSIT)] under Grant 2022R1C1C2007724.**

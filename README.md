@@ -172,6 +172,8 @@ pip install pygame torch matplotlib
 - 외부 라이브러리(pygame, torch, matplotlib)는 각각의 라이선스를 따릅니다.  
 - 프로젝트 개선이나 버그 리포트, Pull Request 등은 언제든지 환영합니다.
 
+---
+
 ## Acknowledgement
 
 이 프로젝트는 **기초연구사업 - 신진연구 - 세종과학펠로우십(국내트랙)** 과제를 통해 지원을 받아 진행 중인 연구 결과물입니다.
